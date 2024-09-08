@@ -1,4 +1,4 @@
-    1  git clone
+    1  git clone https://github.com/Cyberons/HW_10.git
     2  rm ~/.bash_history
     2  touch text_ignore.txt
     3  echo "text_ignore.txt" >> .gitignore
